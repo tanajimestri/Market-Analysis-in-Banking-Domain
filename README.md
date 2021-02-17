@@ -148,6 +148,16 @@ newdf.groupBy("agecategory","y").count().sort($"count".desc).show
 
 # Conclusion: Looks like middle aged clients are much interested.
 
+Output Screen Shots -
+
+![alt_text](https://github.com/tanajimestri/Market-Analysis-in-Banking-Domain/blob/main/images/m1.png)
+
+![alt_text](https://github.com/tanajimestri/Market-Analysis-in-Banking-Domain/blob/main/images/m2.png)
+
+![alt_text](https://github.com/tanajimestri/Market-Analysis-in-Banking-Domain/blob/main/images/m3.png)
+
+![alt_text](https://github.com/tanajimestri/Market-Analysis-in-Banking-Domain/blob/main/images/m4.png)
+
 
 
 
